@@ -8,7 +8,7 @@
 </div>
 
 - 🎓 Lic. en redes informáticas.
-- ⚡ Usuario de Linux
+- 🐚 Usuario de Linux
 - 🪤 Amante del queso 
 - 🤓 Autodidacta desde que tengo PC propia
 
