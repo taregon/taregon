@@ -16,4 +16,5 @@
 
 <!--
 **taregon/taregon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gracias a GhostF8F8FF obtuve la idea para este readme.
 -->
