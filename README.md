@@ -7,13 +7,13 @@
   </h1>
 </div>
 
-- 🎓 Lic. en redes informaticas.
-- ⚡ Usuario de linux
+- 🎓 Lic. en redes informáticas.
+- ⚡ Usuario de Linux
 - 🪤 Amante del queso 
-- 🤓 Autodidacta desde que tengo pc propia
+- 🤓 Autodidacta desde que tengo PC propia
 
-#### Soporte tecnico de profesion, pero aprendiendo un poco de todo para facilitar mis tareas.
- 
+#### Soporte técnico de profesión, pero aprendiendo un poco de todo para facilitar mis tareas.
+
 <!--
 **taregon/taregon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
