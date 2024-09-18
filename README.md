@@ -30,7 +30,7 @@
 
 #### 🖥️ Windows PowerUser
 
-Soportando al usuario desde 2010, resolviendo casos en las siguientes aplicaiones y sistemas operativos:
+Soportando al usuario desde 2010... Resolviendo casos en las siguientes aplicaiones y sistemas operativos:
 
 ![Windows](https://img.shields.io/badge/WindowsXP-0078D6?&logoColor=white)
 ![Windows](https://img.shields.io/badge/WindowsVista-0078D6?&logoColor=white)
@@ -58,7 +58,7 @@ Soportando al usuario desde 2010, resolviendo casos en las siguientes aplicaione
 
 #### 🐧 Linux Entusiasta
 
-Siendo realistas, me gusta la terminal y en parte por que posee mas herramientas. He lidiado con lo siguiente:
+Siendo realistas, me gusta la terminal y en parte por que posee mas herramientas. He lidiado anteriormente con lo siguiente:
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-00A86B?style=flat&logo=manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
