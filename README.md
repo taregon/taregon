@@ -73,6 +73,7 @@ Siendo realistas, me gusta la terminal y en parte por que posee mas herramientas
 ![Portainer](https://img.shields.io/badge/Portainer-2B9EB3?style=flat&logo=portainer&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-FF0000?style=flat&logo=proxmox&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![OpenWRT](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat&logo=OpenWrt&logoColor=white)
 
 </td>
 </tr>
