@@ -17,10 +17,10 @@
   </p>
 </div>
 
-- 🎓 Lic. en redes informáticas.
 - 🐚 Usuario de Linux
 - 🪤 Amante del queso 
 - 🤓 Autodidacta desde que tengo PC propia
+- 🤖 Si yo no puedo, le consuto al chatgpt
 
 #### Soporte técnico de profesión, pero aprendiendo un poco de todo para facilitar mis tareas.
 
