@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E2B7CD&text=Hi!🪐&animation=blink&textBg=false&desc=Lic.en%20Redes%20Informáticas&descAlign=24&descAlignY=34&fontAlign=84&fontAlignY=47&fontColor=470E30&fontSize=50&descSize=22">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E2B7CD&text=Hi!🪐&animation=blink&textBg=false&desc=Lic%20en%20Redes%20Informáticas&descAlign=24&descAlignY=34&fontAlign=84&fontAlignY=47&fontColor=470E30&fontSize=50&descSize=22">
   <h2>Felicidades, me encontraste 🎣</h2>
   <h3>
     <img
