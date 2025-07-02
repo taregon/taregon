@@ -3,7 +3,7 @@
   <h2>Felicidades, me encontraste 🎣</h2>
   <h3>
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&size=30&duration=3500&pause=2000&color=fff5fd&background=41142f&center=true&vCenter=true&width=500&height=60&lines=~%24+Linux+user%2C+waifu+lover+%E2%9D%A4%EF%B8%8F"
+      src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&size=30&duration=3500&pause=2000&color=fff5fd&background=41142f&center=true&vCenter=true&width=500&height=60&lines=~%24+Linux+user%2C+cli+lover+%E2%9D%A4%EF%B8%8F"
       alt="Typing SVG"
     />
   </h3>
