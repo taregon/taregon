@@ -20,7 +20,7 @@
 - 🐚 Usuario de Linux
 - 🪤 Amante del queso 
 - 🤓 Autodidacta desde que tengo PC propia
-- 🤖 Si yo no puedo, le consuto al chatgpt
+- 🤖 Si yo no puedo, consuto a chatgpt
 
 #### Soporte técnico de profesión, pero aprendiendo un poco de todo para facilitar mis tareas.
 
